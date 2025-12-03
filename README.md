@@ -5,7 +5,6 @@ Rajarambapu Institute of Technology, Rajaramnagar (2025–26)</p>
 
 <hr>
 
-<h2>🎥 Project Video Presentation</h2>
 
 <hr>
 
@@ -140,4 +139,5 @@ supervision through Blynk.
     <li>Battery backup system</li>
     <li>Custom PCB development</li>
 </ul>
+
 
